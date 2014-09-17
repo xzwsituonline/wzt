@@ -1,4 +1,3 @@
-<?php
 array(
 		'android' => array(
 			 'version' => '1.0',             //版本号
