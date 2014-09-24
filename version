@@ -1,6 +1,6 @@
 array(
 		'android' => array(
-			 'version' => '1.4',             //版本号
+			 'version' => '1.5',             //版本号
 			 'link' => "https://raw.githubusercontent.com/xzwsituonline/wzt/master/wzt.apk",    //下载地址
 			 'update' => array(),           //更新内容
 		),
