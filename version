@@ -1,6 +1,6 @@
 array(
 		'android' => array(
-			 'version' => '1.8',             //版本号
+			 'version' => '1.9',             //版本号
 			 'link' => "http://120.24.101.85/Uploads/app/android/wzt.apk",    //下载地址
 			 'update' => array(),           //更新内容
 		),
