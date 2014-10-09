@@ -6,7 +6,7 @@ array(
 		),
 		'ios' => array(
 				'version' => '2.0',             //版本号
-				'link' => "http://120.24.101.85/Uploads/app/ios/wzt.plist",  //下载地址
+				'link' => "http://120.24.101.85/Uploads/app/ios/ios.html",  //下载地址
 				'update' => array(),           //更新内容
 		),
 ); 
