@@ -6,7 +6,7 @@ array(
 		),
 		'ios' => array(
 				'version' => '2.0',             //版本号
-				'link' => "https://raw.githubusercontent.com/xzwsituonline/wzt_app/master/ios",  //下载地址
+				'link' => "https://raw.githubusercontent.com/xzwsituonline/wzt_app/master/ios.html",  //下载地址
 				'update' => array(),           //更新内容
 		),
 ); 
