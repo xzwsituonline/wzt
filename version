@@ -5,7 +5,7 @@ array(
 			 'update' => array(),           //更新内容
 		),
 		'ios' => array(
-				'version' => '1.0',             //版本号
+				'version' => '2.0',             //版本号
 				'link' => "http://120.24.101.85/Uploads/app/ios/wzt.ipa",  //下载地址
 				'update' => array(),           //更新内容
 		),
