@@ -1,11 +1,11 @@
 array(
 		'android_patient' => array(
-			 'version' => '2.0.1',             //版本号
+			 'version' => '2.0.2',             //版本号
 			 'link' => "http://120.24.101.85/Uploads/app/android/wzt.apk",    //下载地址
 			 'update' => array(),           //更新内容
 		),
 		'android_doctor' => array(
-			 'version' => '2.0.1',             //版本号
+			 'version' => '2.0.2',             //版本号
 			 'link' => "http://120.24.101.85/Uploads/app/android/wzt_doctor.apk",    //下载地址
 			 'update' => array(),           //更新内容
 		),
