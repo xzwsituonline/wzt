@@ -17,7 +17,7 @@ array(
 		),
 		'ios_doctor' => array(
 				'version' => '2.0.2',             //版本号
-				'link' => "itms-services://?action=download-manifest&url=https://www.situonline.com/Public/Uploads/APP_down/wzttest/2.0/wzt_doctor.plist",  //下载地址
+				'link' => "itms-services://?action=download-manifest&url=https://91wzt.cn/html/ios/wzt_doctor.plist",  //下载地址
 				'update' => array(),           //更新内容
 		),
 ); 
