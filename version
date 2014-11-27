@@ -11,12 +11,12 @@ array(
 		),
 
 		'ios_patient' => array(
-				'version' => '2.0.2',             //版本号
+				'version' => '2.0.3',             //版本号
 				'link' => "itms-services://?action=download-manifest&url=https://91wzt.cn/html/app/ios_user/wzt.plist",  //下载地址
 				'update' => array(),           //更新内容
 		),
 		'ios_doctor' => array(
-				'version' => '2.0.2',             //版本号
+				'version' => '2.0.3',             //版本号
 				'link' => "itms-services://?action=download-manifest&url=https://91wzt.cn/html/app/ios/wzt_doctor.plist",  //下载地址
 				'update' => array(),           //更新内容
 		),
