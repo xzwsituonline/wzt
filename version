@@ -11,7 +11,7 @@ array(
 		),
 
 		'ios_patient' => array(
-				'version' => '2.0.3',             //版本号
+				'version' => '2.0.2',             //版本号
 				'link' => "itms-services://?action=download-manifest&url=https://91wzt.cn/html/ios_user/wzt.plist",  //下载地址
 				'update' => array(),           //更新内容
 		),
