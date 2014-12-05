@@ -1,11 +1,11 @@
 array(
 		'android_patient' => array(
-			 'version' => '2.0.4',             //版本号
+			 'version' => '2.0.5',             //版本号
 			 'link' => "http://120.24.101.85/Uploads/app/android/wzt.apk",    //下载地址
 			 'update' => array(),           //更新内容
 		),
 		'android_doctor' => array(
-			 'version' => '2.0.4',             //版本号
+			 'version' => '2.0.5',             //版本号
 			 'link' => "http://120.24.101.85/Uploads/app/android/wzt_doctor.apk",    //下载地址
 			 'update' => array(),           //更新内容
 		),
@@ -14,9 +14,7 @@ array(
 				'version' => '2.0.4',             //版本号
 				'link' => "itms-services://?action=download-manifest&url=https://91wzt.cn/html/app/ios_user/wzt.plist",  //下载地址
 				'update' => array(
-					'1:调整版本升级界面和显示',
-					'2:增加崩溃bug 日志功能',
-					'3:解决token提示问题',
+					
 				),           //更新内容
 		),
 		'ios_doctor' => array(
