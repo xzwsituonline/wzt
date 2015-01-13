@@ -17,25 +17,33 @@ array(
 				'link' => "itms-services://?action=download-manifest&url=https://91wzt.cn/html/app/ios_user/wzt.plist",  //下载地址
 				'updatType'=>0,
 				'update' => array(
-					
+				'增加支付功能',
+				'优化个人信息'
 				),           //更新内容
 		),
 		'ios_doctor' => array(
 				'version' => '2.1.6',             //版本号
 				'link' => "itms-services://?action=download-manifest&url=https://91wzt.cn/html/app/ios/wzt_doctor.plist",  //下载地址
 				'updatType'=>0,
-				'update' => array(),           //更新内容
+				'update' => array(
+				'增加支付功能',
+				'优化个人信息',
+				),           //更新内容
 		),
 		'ios_patient_appstore' => array(
 				'version' => '2.0.7',             //版本号
 				'updatType'=>0,
 				'update' => array(
-					
+			        '增加支付功能',
+				'优化个人信息',
 				),           //更新内容
 		),
 		'ios_doctor_appstore' => array(
 				'version' => '2.0.7',             //版本号
 				'updatType'=>0,
-				'update' => array(),           //更新内容
+				'update' => array(
+				'增加支付功能',
+				'优化个人信息',
+				),           //更新内容
 		),
 ); 
